@@ -11,11 +11,11 @@ How it's work
 
 3. Build docker image docker-guidebook:
 
-    $ docker build -t docker-guidebook docker-guidebook/
+    ``$ docker build -t docker-guidebook docker-guidebook/``
 
 4. Run container:
 
-    $ docker run -p 80:8000 -t -i docker-guidebook
+    ``$ docker run -p 80:8000 -t -i docker-guidebook``
 
 5. Open in your browser page "http://localhost/docker-guidebook.html"
 
