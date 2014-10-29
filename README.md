@@ -17,5 +17,5 @@ How it's work
 
     ``$ docker run -p 80:8000 -t -i docker-guidebook``
 
-5. Open in your browser page "http://localhost/docker-guidebook.html"
+5. Open in your browser page http://localhost/docker-guidebook.html
 
